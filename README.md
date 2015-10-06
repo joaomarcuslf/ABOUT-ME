@@ -13,4 +13,4 @@
 
 Experience:
   Internship of Social Media - Faeterj-RIO
-  Academic Representative Council - Faeterj - RIO
+  Academic Representative Council - Faeterj-RIO

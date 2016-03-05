@@ -29,7 +29,7 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 - **TDD**
 
 ##Experience:
-
+- Technological Research Project - **Faeterj-RIO**
 - Internship of Social Media - **Faeterj-RIO**
 - Academic Representative Council - **Faeterj-RIO**
 

@@ -1,6 +1,6 @@
 #About me:
 
-I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and development of systems(Computer Science Branch) on Faeterj-RIO, graduated on Computer Graphics. Linux lover, Back-end focused developer, casual player, hardcore reader, *chocoholic* and *coffeeholic*.
+I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and development of systems(Computer Science Branch) on Faeterj-RIO, graduated on Computer Graphics. Linux lover, casual player, hardcore reader, *chocoholic* and *coffeeholic*.
   
 ---
   
@@ -13,6 +13,7 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
     - Bootstrap
 - **Css**
     - Sass
+    - Less
 - **JavaScript**
 - **Python**
 - **Java**

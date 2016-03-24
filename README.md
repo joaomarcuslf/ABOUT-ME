@@ -21,6 +21,8 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 - **Git**
     - Github
 - **Gimp**
+- **Vagrant**
+- **Vim**
 
 ##Methodologies:
 
@@ -36,4 +38,4 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 
 ##Contact me:
 
-- [Email](jmarcusfernandes@gmail.com) - [Twitter](https://twitter.com/joaomarcuslf) - [Github](https://github.com/joaomarcuslf)
+- [Site](http://joaomarcuslf.github.io) - [Email](jmarcusfernandes@gmail.com) - [Twitter](https://twitter.com/joaomarcuslf) - [Github](https://github.com/joaomarcuslf) - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcus-fernandes-4b8814ba)

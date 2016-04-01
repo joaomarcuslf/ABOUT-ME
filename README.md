@@ -15,6 +15,7 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
     - Sass
     - Less
 - **JavaScript**
+    - Gulp.js
 - **Python**
 - **Java**
 - **C**

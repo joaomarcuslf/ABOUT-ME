@@ -16,12 +16,16 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
     - Less
 - **JavaScript**
     - Gulp.js
+    - jQuery
+    - AngulaJS
+- **PHP**
 - **Python**
 - **Java**
 - **C**
 - **Git**
     - Github
 - **Gimp**
+- **Photoshop**
 - **Vagrant**
 - **Vim**
 
@@ -30,12 +34,13 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 - **Agile**
 - **Scrum**
 - **Kanban**
-- **TDD**
+- **BDD**
 
 ##Experience:
 - Technological Research Project - **Faeterj-RIO**
 - Internship of Social Media - **Faeterj-RIO**
 - Academic Representative Council - **Faeterj-RIO**
+- Freelancer **Design Graphic**
 
 ##Contact me:
 

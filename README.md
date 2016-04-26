@@ -2,7 +2,7 @@
 
 ##Contents:
   1. [Presentation](#presentation)
-  2. [Knowleges](#knowledges)
+  2. [Knowledges](#knowledges)
   3. [Methodologies](#methodologies)
   4. [Experience](#experience)
   5. [Contact Me](#contact-me)
@@ -11,27 +11,19 @@
 
 I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and development of systems(Computer Science Branch) on Faeterj-RIO, graduated on Computer Graphics. Linux lover, casual player, hardcore reader, *chocoholic* and *coffeeholic*.
 
-  
+
 ##Knowledges:
 | Languages        |   | Tools           |   | Database       |
 |:----------------:|---|:---------------:|---|:--------------:|
 |   **Ruby**       |   |   **Git**       |   | **MySQL**      |
-|   - Rails        |   |   - Github      |   | **PostgreSQL** |
-|   - Rspec        |   |   **Gimp**      |   | **MongoDB**    |
-|   **Html**       |   |   **Photoshop** |
-|   - Bootstrap    |   |   **Vagrant**   |
-|   **Css**        |   |   **Vim**       |
-|   - Sass         |   |   **WordPress** |
-|   - Less         |
-| **JavaScript**   |
-|   - Gulp.js      |
-|   - jQuery       |
-|   - AngulaJS     |
-|   - Node.js      |
-|   **PHP**        |
-|   **Python**     |
-|   **Java**       |
+|   **Html**       |   |   **Github**    |   | **PostgreSQL** |
+|   **Css**        |   |   **Gimp**      |   | **MongoDB**    |
+| **JavaScript**   |   |   **Photoshop** |
+|   **PHP**        |   |   **Vagrant**   |
+|   **Python**     |   |   **Vim**       |
+|   **Java**       |   |   **WordPress** |
 |   **C**          |
+> _For more info about the knowledges see it (here)[/knowledges.md]_
 
 ##Methodologies:
 

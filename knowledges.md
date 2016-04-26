@@ -1,0 +1,24 @@
+#Knowledges:
+
+- **Ruby**
+    - Rails
+    - Rspec
+- **Html**
+    - Bootstrap
+- **Css**
+    - Sass
+    - Less
+- **JavaScript**
+    - Gulp.js
+    - jQuery
+    - AngulaJS
+- **PHP**
+- **Python**
+- **Java**
+- **C**
+- **Git**
+    - Github
+- **Gimp**
+- **Photoshop**
+- **Vagrant**
+- **Vim**

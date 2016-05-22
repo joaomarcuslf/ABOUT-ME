@@ -22,7 +22,7 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 |   **PHP**        |   |   **Vagrant**   |
 |   **Python**     |   |   **Vim**       |
 |   **Java**       |   |   **WordPress** |
-|   **C**          |
+|   **C**          |   |   **Mercurial** |
 > _For more info about the knowledges see it [here](/knowledges.md)_
 
 ##Methodologies:

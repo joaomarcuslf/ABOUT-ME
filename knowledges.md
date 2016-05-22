@@ -7,6 +7,7 @@
     - Rspec
 - **Html**
     - Bootstrap
+    - Semantic Web
 - **Css**
     - Sass
     - Less
@@ -17,6 +18,8 @@
     - jQuery
     - AngulaJS
     - Node.js
+    - Require.js
+    - Globalize.js
 - **PHP**
 - **Java**
     - jUnit
@@ -27,8 +30,13 @@
 
 - **Git**
     - Github
+- **Mercurial (HG)**
 - **Vagrant**
     - Development Environment
+- **NPM**
+    - Dependencies manager
+- **Gem**
+    - Dependencies manager
 - **Vim**
 - **LibreOffice**
 - **Gimp**

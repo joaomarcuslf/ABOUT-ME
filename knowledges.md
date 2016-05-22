@@ -5,6 +5,7 @@
 - **Ruby**
     - Rails
     - Rspec
+    - Jekyll
 - **Html**
     - Bootstrap
     - Semantic Web
@@ -39,6 +40,7 @@
     - Dependencies manager
 - **Vim**
 - **LibreOffice**
+- **Wordpress**
 - **Gimp**
     - Web Illustrations
 - **Adobe Photoshop**

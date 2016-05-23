@@ -17,7 +17,7 @@
 - **JavaScript**
     - Gulp.js
     - jQuery
-    - AngulaJS
+    - AngularJS
     - Node.js
     - Require.js
     - Globalize.js

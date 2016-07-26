@@ -2,6 +2,31 @@
 
 ##Languages
 
+- **JavaScript**
+    - Gulp.js
+    - jQuery
+    - AngularJS
+    - Node.js
+    - Express
+    - MEAN Stack
+    - Require.js
+    - Globalize.js
+    - **Templates**
+        - Ejs
+        - Mustache
+        - HandleBars
+    - **Test**:
+        - Karma
+        - Mocha
+        - Protractor
+        - Jasmine
+- **Css**
+    - Sass
+    - Less
+    - Flexbox
+    - **Organization Architecture**:
+        - _BEM_
+        - _ITCSS_
 - **Ruby**
     - Rails
     - Rspec
@@ -9,18 +34,6 @@
 - **Html**
     - Bootstrap
     - Semantic Web
-- **Css**
-    - Sass
-    - Less
-    - Organization Architecture:
-        - _BEM_
-- **JavaScript**
-    - Gulp.js
-    - jQuery
-    - AngularJS
-    - Node.js
-    - Require.js
-    - Globalize.js
 - **PHP**
 - **Java**
     - jUnit
@@ -34,12 +47,18 @@
 - **Mercurial (HG)**
 - **Vagrant**
     - Development Environment
+- **Bower**
+    - Dependencies manager
 - **NPM**
     - Dependencies manager
 - **Gem**
     - Dependencies manager
+- **Sublime Text**
 - **Vim**
-- **LibreOffice**
+- **Heroku**
+- **Travis CI**
+- **SauceLabs**
+- **Jenkins**
 - **Wordpress**
 - **Gimp**
     - Web Illustrations
@@ -56,3 +75,4 @@
 - **Mobile First**
 - **Test Driven Development**
 - **Agile Development**
+- **REST API**

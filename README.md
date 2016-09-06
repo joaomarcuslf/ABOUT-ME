@@ -40,7 +40,7 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 - Technological Research Project - **Faeterj-RIO**
 - Internship of Social Media - **Faeterj-RIO**
 - Academic Representative Council - **Faeterj-RIO**
-- Freelancer **Design Graphic**
+- Freelancer - **Design Graphic**
 
 ##Contact me:
 

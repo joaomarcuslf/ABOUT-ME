@@ -22,17 +22,21 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 |   **PHP**        |   |   **Vagrant**   |
 |   **Python**     |   |   **Sublime**   |
 |   **Java**       |   |   **WordPress** |
-|   **C**          |   |   **Bowe**      |
+|   **C**          |   |   **Bower**     |
 > _For more info about the knowledges see it [here](/knowledges.md)_
 
 ##Methodologies:
 
+- **XP**
 - **Agile**
 - **Scrum**
+- **Lean**
 - **Kanban**
 - **BDD**
+- **TDD**
 
 ##Experience:
+- Front-end Developer - **Minds at Work**
 - Technological Research Project - **Faeterj-RIO**
 - Internship of Social Media - **Faeterj-RIO**
 - Academic Representative Council - **Faeterj-RIO**

@@ -30,12 +30,14 @@
 - **Ruby**
     - Rails
     - Rspec
+    - Sinatra
     - Jekyll
 - **Html**
     - Bootstrap
     - Semantic Web
 - **PHP**
 - **Java**
+    - Spring
     - jUnit
 - **Python**
 - **C**
@@ -46,13 +48,10 @@
     - Github
 - **Mercurial (HG)**
 - **Vagrant**
-    - Development Environment
-- **Bower**
-    - Dependencies manager
-- **NPM**
-    - Dependencies manager
-- **Gem**
-    - Dependencies manager
+- Development Environment
+    - **Bower**
+    - **NPM**
+    - **Gem**
 - **Sublime Text**
 - **Vim**
 - **Heroku**
@@ -73,6 +72,9 @@
 
 - **Responsive Design**
 - **Mobile First**
+- **User Experience**
 - **Test Driven Development**
 - **Agile Development**
 - **REST API**
+- **Single page application**[
+- **Microservices**

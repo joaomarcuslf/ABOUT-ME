@@ -48,7 +48,8 @@
     - Github
 - **Mercurial (HG)**
 - **Vagrant**
-- Development Environment
+    - Development Environment
+- Dependencies manager
     - **Bower**
     - **NPM**
     - **Gem**

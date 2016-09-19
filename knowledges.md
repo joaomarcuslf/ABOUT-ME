@@ -4,8 +4,8 @@
 
 - **JavaScript**
     - Gulp.js
-    - jQuery
     - AngularJS
+    - jQuery
     - Node.js
     - Express
     - MEAN Stack
@@ -18,6 +18,8 @@
     - **Test**:
         - Karma
         - Mocha
+        - Chai
+        - Istambul
         - Protractor
         - Jasmine
 - **Css**
@@ -27,6 +29,7 @@
     - **Organization Architecture**:
         - _BEM_
         - _ITCSS_
+        - _OOCSS_
 - **Ruby**
     - Rails
     - Rspec
@@ -49,6 +52,7 @@
 - **Mercurial (HG)**
 - **Vagrant**
     - Development Environment
+- **Yeoman**
 - Dependencies manager
     - **Bower**
     - **NPM**
@@ -77,5 +81,5 @@
 - **Test Driven Development**
 - **Agile Development**
 - **REST API**
-- **Single page application**[
+- **Single page application**
 - **Microservices**

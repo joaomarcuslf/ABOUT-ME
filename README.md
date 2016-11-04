@@ -20,7 +20,7 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 |   **Css**        |   |   **Gimp**      |   | **MongoDB**    |
 | **JavaScript**   |   |   **Photoshop** |
 |   **PHP**        |   |   **Vagrant**   |
-|   **Python**     |   |   **Sublime**   |
+|   **Python**     |   |   **Sublime / VS code / VIM**   |
 |   **Java**       |   |   **WordPress** |
 |   **C**          |   |   **Bower**     |
 > _For more info about the knowledges see it [here](/knowledges.md)_

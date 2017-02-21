@@ -15,11 +15,11 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 ##Knowledges:
 | Languages        |   | Tools           |   | Database       |
 |:----------------:|---|:---------------:|---|:--------------:|
-|   **Ruby**       |   |   **Git**       |   | **MySQL**      |
+|   **JavaScript** |   |   **Git**       |   | **MongoDB**    |
 |   **Html**       |   |   **Github**    |   | **PostgreSQL** |
-|   **Css**        |   |   **Gimp**      |   | **MongoDB**    |
-| **JavaScript**   |   |   **Photoshop** |
-|   **PHP**        |   |   **Vagrant**   |
+|   **Css**        |   |   **Gimp**      |   | **MySQL**      |
+|   **Ruby**       |   |   **Photoshop** |
+|   **Clojure**    |   |   **Vagrant**   |
 |   **Python**     |   |   **Sublime / VS code / VIM**   |
 |   **Java**       |   |   **WordPress** |
 |   **C**          |   |   **Bower**     |
@@ -36,6 +36,7 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 - **TDD**
 
 ##Experience:
+- Front-end Developer - **B2W Digitaç**
 - Front-end Developer - **Minds at Work**
 - Technological Research Project - **Faeterj-RIO**
 - Internship of Social Media - **Faeterj-RIO**

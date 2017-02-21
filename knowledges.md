@@ -5,12 +5,14 @@
 - **JavaScript**
     - ECMA6 / ECMA2015
     - React
-    - Gulp.js
-    - Webpack
-    - AngularJS
-    - jQuery
+        - Redux
+        - Flux
     - Node.js
     - Express
+    - Webpack
+    - AngularJS
+    - Gulp.js
+    - jQuery
     - MEAN Stack
     - Require.js
     - Globalize.js
@@ -18,6 +20,7 @@
         - Ejs
         - Mustache
         - HandleBars
+        - Pug
     - **Test**:
         - Karma
         - Mocha
@@ -44,6 +47,10 @@
     - Bootstrap
     - Semantic Web
     - HTML5
+- **Clojure**
+    - Ring
+    - Compojure
+    - Pedestal
 - **Java**
     - Spring
     - jUnit
@@ -67,7 +74,7 @@
 - **Event-driven programming**
 
 
-##Tools 
+##Tools
 
 - **Git**
     - Github

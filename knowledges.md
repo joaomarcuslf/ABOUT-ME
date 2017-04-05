@@ -1,13 +1,15 @@
-#Knowledges:
+# Knowledges:
 
-##Languages
+## Languages
 
 - **JavaScript**
     - ECMA6 / ECMA2015
     - React
         - Redux
         - Flux
+    - React Native
     - Node.js
+    - Jhonny Five
     - Express
     - Webpack
     - AngularJS
@@ -28,6 +30,11 @@
         - Istambul
         - Protractor
         - Jasmine
+- **Clojure**
+    - Ring
+    - Compojure
+    - Pedestal
+    - ClojureScript
 - **Ruby**
     - Rails
         - _Rails5 API Mode_
@@ -47,10 +54,6 @@
     - Bootstrap
     - Semantic Web
     - HTML5
-- **Clojure**
-    - Ring
-    - Compojure
-    - Pedestal
 - **Java**
     - Spring
     - jUnit
@@ -58,7 +61,7 @@
 - **Python**
 - **C**
 
-##Concepts
+## Concepts
 
 - **Responsive Design**
 - **Mobile First**
@@ -72,9 +75,10 @@
 - **Functional programming**
 - **Object-oriented programming**
 - **Event-driven programming**
+- **IoT and WoT**
+- **Node.js as robotic platform**
 
-
-##Tools
+## Tools
 
 - **Git**
     - Github

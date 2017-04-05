@@ -1,18 +1,19 @@
-#About me:
+# About me:
 
-##Contents:
+## Contents:
   1. [Presentation](#presentation)
   2. [Knowledges](#knowledges)
   3. [Methodologies](#methodologies)
   4. [Experience](#experience)
   5. [Contact Me](#contact-me)
 
-##Presentation:
+## Presentation:
 
 I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and development of systems(Computer Science Branch) on Faeterj-RIO, graduated on Computer Graphics. Linux lover, casual player, hardcore reader, *chocoholic* and *coffeeholic*.
 
 
-##Knowledges:
+## Knowledges:
+
 | Languages        |   | Tools           |   | Database       |
 |:----------------:|---|:---------------:|---|:--------------:|
 |   **JavaScript** |   |   **Git**       |   | **MongoDB**    |
@@ -25,7 +26,7 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 |   **C**          |   |   **Bower**     |
 > _For more info about the knowledges see it [here](/knowledges.md)_
 
-##Methodologies:
+## Methodologies:
 
 - **XP**
 - **Agile**
@@ -35,14 +36,14 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 - **BDD**
 - **TDD**
 
-##Experience:
-- Front-end Developer - **B2W Digitaç**
+## Experience:
+- Front-end Developer - **B2W Digital**
 - Front-end Developer - **Minds at Work**
 - Technological Research Project - **Faeterj-RIO**
 - Internship of Social Media - **Faeterj-RIO**
 - Academic Representative Council - **Faeterj-RIO**
 - Freelancer - **Design Graphic**
 
-##Contact me:
+## Contact me:
 
 - [Site](http://joaomarcuslf.github.io) - [Email](jmarcusfernandes@gmail.com) - [Twitter](https://twitter.com/joaomarcuslf) - [Github](https://github.com/joaomarcuslf) - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcus-fernandes-4b8814ba)

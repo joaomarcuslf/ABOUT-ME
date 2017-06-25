@@ -37,7 +37,7 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 - **TDD**
 
 ## Experience:
-- Front-end Developer - **B2W Digital**
+- Full-stack Developer - **B2W Digital**
 - Front-end Developer - **Minds at Work**
 - Technological Research Project - **Faeterj-RIO**
 - Internship of Social Media - **Faeterj-RIO**
@@ -46,4 +46,4 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 
 ## Contact me:
 
-- [Site](http://joaomarcuslf.github.io) - [Email](jmarcusfernandes@gmail.com) - [Twitter](https://twitter.com/joaomarcuslf) - [Github](https://github.com/joaomarcuslf) - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcus-fernandes-4b8814ba)
+- [Site](http://joaomarcuslf.github.io) | [Email](jmarcusfernandes@gmail.com) | [Twitter](https://twitter.com/joaomarcuslf) | [Github](https://github.com/joaomarcuslf) | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcus-fernandes-4b8814ba)

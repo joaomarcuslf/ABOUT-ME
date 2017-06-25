@@ -35,14 +35,16 @@
     - Compojure
     - Pedestal
     - ClojureScript
+        - Radiant
 - **Ruby**
     - Rails
         - _Rails5 API Mode_
     - Rspec
     - Sinatra
+    - Slim
     - Jekyll
 - **Css**
-    - Sass
+    - Sass/SCSS
     - Less
     - CSS3
     - Flexbox
@@ -89,8 +91,9 @@
 - Dependencies manager
     - **Bower**
     - **NPM**
+    - **Yarn**
     - **Gem**
-- **Sublime Text**
+- **Atom**
 - **Vim**
 - **VS Code**
 - **Heroku**

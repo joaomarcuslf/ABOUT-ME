@@ -37,6 +37,7 @@ I'm **João Marcus Fernandes**, Developer. Right now studying Analysis and devel
 - **TDD**
 
 ## Experience:
+- Full-stack Developer - **Zoox Smart Data**
 - Full-stack Developer - **B2W Digital**
 - Front-end Developer - **Minds at Work**
 - Technological Research Project - **Faeterj-RIO**
